@@ -8,7 +8,7 @@ Here is a little race mapping for your players. It is secured via props and help
 ![image](https://github.com/skypr0d/race-grapeseed/assets/67479263/2565b2e4-880c-4559-9efc-b80909be7029)
 
 
-https://forum.cfx.re/t/................
+https://forum.cfx.re/t/race-ymap-grapeseed-free/5178998
 
 
 · Code is accessible = Yes
